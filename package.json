@@ -29,7 +29,7 @@
 		"test": "grunt test"
 	},
 	"dependencies": {
-		"madge": "~0.3.1"
+		"madge": "kamweti/madge"
 	},
 	"peerDependencies": {
 		"grunt": "~0.4.1"
